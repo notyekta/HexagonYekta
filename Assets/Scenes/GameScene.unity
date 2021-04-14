@@ -2203,10 +2203,10 @@ RectTransform:
   m_Father: {fileID: 1637979640}
   m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0.5, y: 0}
-  m_AnchorMax: {x: 0.5, y: 0}
-  m_AnchoredPosition: {x: -154, y: 1186}
-  m_SizeDelta: {x: 185.23636, y: 127.052155}
+  m_AnchorMin: {x: 0.5, y: 1}
+  m_AnchorMax: {x: 0.5, y: 1}
+  m_AnchoredPosition: {x: -154, y: -93}
+  m_SizeDelta: {x: 185.23636, y: 127.052124}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1137628195
 MonoBehaviour:
@@ -2692,10 +2692,10 @@ RectTransform:
   m_Father: {fileID: 1637979640}
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 1, y: 1}
-  m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: -360, y: -95.87988}
-  m_SizeDelta: {x: 97.84224, y: 97.84224}
+  m_AnchorMin: {x: 0.5, y: 1}
+  m_AnchorMax: {x: 0.5, y: 1}
+  m_AnchoredPosition: {x: 0, y: -95.87988}
+  m_SizeDelta: {x: 97.842224, y: 97.84224}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1317053878
 MonoBehaviour:
@@ -3775,10 +3775,10 @@ RectTransform:
   m_Father: {fileID: 1637979640}
   m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0.5, y: 0}
-  m_AnchorMax: {x: 0.5, y: 0}
-  m_AnchoredPosition: {x: 161, y: 1186}
-  m_SizeDelta: {x: 127.052155, y: 127.052155}
+  m_AnchorMin: {x: 0.5, y: 1}
+  m_AnchorMax: {x: 0.5, y: 1}
+  m_AnchoredPosition: {x: 161, y: -93}
+  m_SizeDelta: {x: 127.052155, y: 127.052124}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1957763703
 MonoBehaviour:
@@ -3994,12 +3994,12 @@ MonoBehaviour:
   width: 6
   hexTypes:
   - id: 0
-    typeName: blue
+    typeName: green
     prefab: {fileID: 5974702265975320735, guid: 122cfe7cdbfdb844cb719d796e10e3e2,
       type: 3}
-    hexColor: {r: 0.2972767, g: 1, b: 0.19339621, a: 1}
+    hexColor: {r: 0.18026838, g: 0.8301887, b: 0.08223567, a: 1}
   - id: 1
-    typeName: green
+    typeName: red
     prefab: {fileID: 5974702265975320735, guid: 122cfe7cdbfdb844cb719d796e10e3e2,
       type: 3}
     hexColor: {r: 1, g: 0.051886797, b: 0.051886797, a: 1}
@@ -4007,14 +4007,14 @@ MonoBehaviour:
     typeName: orange
     prefab: {fileID: 5974702265975320735, guid: 122cfe7cdbfdb844cb719d796e10e3e2,
       type: 3}
-    hexColor: {r: 1, g: 0.9439733, b: 0.042452812, a: 1}
+    hexColor: {r: 0.9137255, g: 0.50508964, b: 0.21176472, a: 1}
   - id: 3
-    typeName: purple
+    typeName: blue
     prefab: {fileID: 5974702265975320735, guid: 122cfe7cdbfdb844cb719d796e10e3e2,
       type: 3}
     hexColor: {r: 0.10094485, g: 0.07843135, b: 0.62352943, a: 1}
   - id: 4
-    typeName: purple2
+    typeName: purple
     prefab: {fileID: 5974702265975320735, guid: 122cfe7cdbfdb844cb719d796e10e3e2,
       type: 3}
     hexColor: {r: 0.69411767, g: 0, b: 1, a: 1}
